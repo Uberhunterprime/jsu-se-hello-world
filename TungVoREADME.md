@@ -33,7 +33,7 @@ If you want to do a full build and reporting from a clean project, you can just 
 
 ## Structure
 The directory structure that is assumed by Gradle (though it can be changed if you want) is as follows:
-
+## Tung Vo
     project root     (root directory of project, probably "jsu-se-hello-world")
                |
                 - build.gradle    (contains the instructions for the build tasks)
